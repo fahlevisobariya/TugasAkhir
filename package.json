@@ -1,0 +1,7 @@
+{
+  "name": "TugasAkhir",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^9.1.5"
+  }
+}
